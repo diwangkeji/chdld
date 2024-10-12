@@ -24,7 +24,10 @@
 		- [AvatarWnd界面lab属性控件](/01/clientup.md)
 		- [OtherPlayerEquip界面lab属性控件](/01/clientup.md)
 - 参数素材对照表
+	- [255颜色对照表](/02/uplist.md)
 - 大功能解析说明
+   	- [灵兽系统说明](/03/uplist.md)
 - 搭建微端服务器
+  	- [搭建微端服务器](/04/uplist.md)
 - 常见问题解答
-		
+	- [如何查找地图及镜像地图使用](/05/uplist.md)		
