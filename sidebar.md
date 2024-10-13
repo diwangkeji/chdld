@@ -24,11 +24,11 @@
 		- [物品tips背景透明度设置](/01/clientup.md)
 		- [AvatarWnd界面lab属性控件](/01/clientup.md)
 		- [OtherPlayerEquip界面lab属性控件](/01/clientup.md)
-        - [客户端目录介绍](/01/uplist.md)
- 	- [客户端控件说明](/01/uplist.md)
-        - [客户端tips说明](/01/uplist.md)
-        - [客户端lua脚本说明](/01/uplist.md)
-        - [客户端添加界面装备](/01/uplist.md)
+        - 客户端目录介绍
+ 	- 客户端控件说明
+        - 客户端tips说明
+        - 客户端lua脚本说明
+        - 客户端添加界面装备
  
   - 参数素材对照表
 	- [255颜色对照表](/02/uplist.md)
@@ -83,4 +83,4 @@
      - [登录器注册与配置说明](/02/uplist.md)
      - [客户端允许加密文件](/02/uplist.md)
      - [客户端地图补丁](/02/uplist.md)
-     - [游戏药品解包设置](/02/uplist.md)		
+     - [游戏药品解包设置](/02/uplist.md)
