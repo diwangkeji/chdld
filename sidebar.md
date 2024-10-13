@@ -44,14 +44,14 @@
     - [添加NPC界面](/00/uplist.md)
    
 - 参数素材对照表
- - [255颜色对照表](/02/uplist.md)
- - [package资源对照表](/02/uplist.md)
-  - [magicfile特效对照表](/02/uplist.md)
-  - [衣服对照表](/02/uplist.md)
-  - [武器对照表](/02/uplist.md)
-  - [NPC外观对照表](/02/uplist.md)
- - [羽翼外观对照表](/02/uplist.md)
- - [怪物形象对照表](/02/uplist.md)
+   - [255颜色对照表](/02/uplist.md)
+   - [package资源对照表](/02/uplist.md)
+   - [magicfile特效对照表](/02/uplist.md)
+   - [衣服对照表](/02/uplist.md)
+   - [武器对照表](/02/uplist.md)
+   - [NPC外观对照表](/02/uplist.md)
+   - [羽翼外观对照表](/02/uplist.md)
+   - [怪物形象对照表](/02/uplist.md)
 
 - 功能解析说明
   - [灵兽系统](/02/uplist.md)
