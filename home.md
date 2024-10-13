@@ -23,3 +23,5 @@
 项目维护： [帝王科技](https://www.dwkj.me)
 
 Enigma群： [加群链接](/eghelp.md)
+
+~说明若发现错误，请您联系[帝王科技](/about.md)及时修正~
