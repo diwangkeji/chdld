@@ -2,7 +2,7 @@
 
 - [说明书介绍](home.md)
 - [Enigma群说明](/eghelp.md)
-- [特殊标签分类](/00/uplist.md)
+- [特殊标签分类](/lable.md)
 
 - 服务端说明
   - 引擎更新日志
