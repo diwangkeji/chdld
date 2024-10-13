@@ -4,44 +4,44 @@
 - [Enigma群说明](/eghelp.md)
 
 - 服务端说明
-	-  [特殊标签分类](/00/uplist.md)
-   			- 引擎更新日志
-    					- [游戏引擎更新日志](/00/uplist.md)
-        		- DB数据库说明
-    					- [物品数据库](/00/uplist.md)
-    					- [怪物数据库](/00/uplist.md)
-    					- [技能数据库](/00/uplist.md)
-    					- [人物数据库](/00/uplist.md)
-  					- [宝宝数据库](/00/uplist.md)
-    			- 变量相关说明
-					- [引擎变量说明](/00/uplist.md)
-    			- 检测命令说明
-    					- [检测命令列表](/00/uplist.md)
-    			- 执行命令说明
-    					- [执行命令列表](/00/uplist.md)
-    			- 常用脚本说明
-    					- [服务器端xml属性对照表](/00/uplist.md)
-    			- 功能相关说明
-    					- [金币掉落相关](/00/uplist.md)
-    			- NPC相关说明
-    					- [npc开头参数](/00/uplist.md)
-    			- 服务端架设说明
-   					- [mysql数据库安装教程](/00/uplist.md)
+	- [特殊标签分类](/00/uplist.md)
+           - 引擎更新日志
+                    - [游戏引擎更新日志](/00/uplist.md)
+               - DB数据库说明
+                      - [物品数据库](/00/uplist.md)
+                      - [怪物数据库](/00/uplist.md)
+                      - [技能数据库](/00/uplist.md)
+                      - [人物数据库](/00/uplist.md)
+                      - [宝宝数据库](/00/uplist.md)
+               - 变量相关说明
+                       - [引擎变量说明](/00/uplist.md)
+                - 检测命令说明
+                      - [检测命令列表](/00/uplist.md)
+                - 执行命令说明
+                      - [执行命令列表](/00/uplist.md)
+                - 常用脚本说明
+                      - [服务器端xml属性对照表](/00/uplist.md)
+                - 功能相关说明
+                      - [金币掉落相关](/00/uplist.md)
+                - NPC相关说明
+                      - [npc开头参数](/00/uplist.md)
+                - 服务端架设说明
+                      - [mysql数据库安装教程](/00/uplist.md)
     				
 
 - 客户端说明
-	- 客户端更新日志
-					- [客户端更新日志](/00/uplist.md)
-	- 客户端目录介绍
-					 - [config文件说明](/00/uplist.md)
-	- 客户端控件说明
- 					 - [客户端控件说明](/00/uplist.md)
+        - 客户端更新日志
+              - [客户端更新日志](/00/uplist.md)
+         - 客户端目录介绍
+              - [config文件说明](/00/uplist.md)
+        - 客户端控件说明
+              - [客户端控件说明](/00/uplist.md)
 	- 客户端tips说明
-					  - [客户端tips说明](/00/uplist.md)
+             - [客户端tips说明](/00/uplist.md)
 	- 客户端lua脚本说明
-					- [彩虹独立端lua脚本说明](/00/uplist.md)
+             - [彩虹独立端lua脚本说明](/00/uplist.md)
 	- 客户端添加界面装备
-   					- [添加NPC界面](/00/uplist.md)
+             - [添加NPC界面](/00/uplist.md)
    
   - 参数素材对照表
 	- [255颜色对照表](/02/uplist.md)
