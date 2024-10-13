@@ -11,12 +11,24 @@
           - [引擎历史修复日志](/00/uplist.md)
 
 - 客户端说明
-  - 客户端更新日志
-  - 客户端目录介绍
-  - 客户端控件说明
-  - 客户端tips说明
-  - 客户端lua脚本说明
-  - 客户端添加界面装备
+   - 客户端更新日志
+         + [客户端更新日志](/01/clientup.md)
+         + [游戏启动画面设置](/01/clientup.md)
+         + [主界面任务面板设置](/01/clientup.md)
+         + [客户端加载命令](/01/clientup.md)
+         + [客户端添加游戏名字特效](/01/clientup.md)
+         + [客户端帮助按钮设置](/01/clientup.md)
+         + [技能界面登记文字设置](/01/clientup.md)
+         + [特殊控件界面相互调用](/01/clientup.md)
+         + [滚动条素材设置](/01/clientup.md)
+         + [物品tips背景透明度设置](/01/clientup.md)
+         + [AvatarWnd界面lab属性控件](/01/clientup.md)
+         + [OtherPlayerEquip界面lab属性控件](/01/clientup.md)
+   - 客户端目录介绍
+   - 客户端控件说明
+   - 客户端tips说明
+   - 客户端lua脚本说明
+   - 客户端添加界面装备
  
   - 参数素材对照表
 	- [255颜色对照表](/02/uplist.md)
@@ -72,3 +84,4 @@
      - [客户端允许加密文件](/02/uplist.md)
      - [客户端地图补丁](/02/uplist.md)
      - [游戏药品解包设置](/02/uplist.md)
+
