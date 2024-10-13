@@ -2,15 +2,16 @@
 
 - [说明书介绍](home.md)
 - [Enigma群说明](/eghelp.md)
+
 - 服务端说明
-    - [特殊标签分类](/00/lable.md)
-	- 引擎更新日志
-	   - [游戏引擎更新日志](/00/uplist.md)
-       - [专题功能更新日志](/00/uplist.md)
-       - [引擎历史修复日志](/00/uplist.md)
+  - [特殊标签分类](/00/lable.md)
+     - 引擎更新日志
+          - [游戏引擎更新日志](/00/uplist.md)
+          - [专题功能更新日志](/00/uplist.md)
+          - [引擎历史修复日志](/00/uplist.md)
 
 - 客户端说明
-    - 客户端更新日志
+       - 客户端更新日志
 		- [客户端更新日志](/01/clientup.md)
 		- [游戏启动画面设置](/01/clientup.md)
 		- [主界面任务面板设置](/01/clientup.md)
@@ -23,11 +24,15 @@
 		- [物品tips背景透明度设置](/01/clientup.md)
 		- [AvatarWnd界面lab属性控件](/01/clientup.md)
 		- [OtherPlayerEquip界面lab属性控件](/01/clientup.md)
-- 参数素材对照表
+
+  - 参数素材对照表
 	- [255颜色对照表](/02/uplist.md)
+
 - 大功能解析说明
-- 	- [255颜色对照表](/02/uplist.md)
+    - [255颜色对照表](/02/uplist.md)
+
 - 搭建微端服务器
-- 	- [255颜色对照表](/02/uplist.md)
+    - [255颜色对照表](/02/uplist.md)
+
 - 常见问题解答
-	- [如何查找地图及镜像地图使用](/05/uplist.md)		
+     - [如何查找地图及镜像地图使用](/05/uplist.md)		
