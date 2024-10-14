@@ -40,7 +40,7 @@ body {
 	font-weight: bold;
 }
 /* code */
-.code { background: #e5e5e5; padding: 10px 20px 10px; border: 1px solid #666; margin: 0; font-size: 16px; color:#333333;}
+.code { background: #e5e5e5; padding: 10px 100% 10px; border: 1px solid #666; margin: 0; font-size: 16px; color:#333333;}
 </style>
 </head>
 
