@@ -1,6 +1,6 @@
 # 物品数据库字段说明
 
-
+<html>
 <style type="text/css">
 body,td,th {
 	color: #000;
