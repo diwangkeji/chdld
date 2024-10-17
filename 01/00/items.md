@@ -43,10 +43,9 @@ body {
 <body>
 最后更新时间：2022/05/10<br />
 <hr />
-<p class="biaoti">物品数据库字段说明</p>
 
-  <span class="lan">物品数据库属性值都支持21亿数值</span><br /><br />
-<table width="500" height="200" border="1" cellpadding="8" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
+<span class="lan">物品数据库属性值都支持21亿数值</span><br /><br />
+<table width="800" height="1024" border="1" cellpadding="8" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
   <tr style="height:40px; width:250"><td width="180">字段名字</td><td width="320">说明</td></tr>
   <tr style="height:40px; width:250"><td width="180">Idx</td><td width="320">序号</td></tr>
   <tr style="height:40px; width:250"><td width="180">Name</td><td width="320">名称</td></tr>
