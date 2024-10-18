@@ -24,23 +24,15 @@
       sidebarDisplayLevel: 1,
       autoHeader: true,
       mergeNavbar: true,
+	  themeColor: "#42b983" // this is the default 'vue' color
       alias: {
        '/.*/sidebar.md': '/sidebar.md',
       },
       
       timeUpdater: {
-    text: "<div align='right' width='200px' style='color:gray;font-size:12px'> <br/> <hr/> 最近修订：{docsify-updated}</div>",
-    formatUpdated: "{YYYY}-{MM}-{DD}",
-	  dark: {
-			background: "#fff",
-			toggleBtnBg: "#fff",
-			textColor: "#fff",
-			},
-		light: {
-			background: "#666",
-			toggleBtnBg: "#666)",
-			textColor: "#666",
-				},
+        text: "<div align='right' width='200px' style='color:gray;font-size:12px'> <br/> <hr/> 最近修订：{docsify-updated}</div>",
+        formatUpdated: "{YYYY}-{MM}-{DD}",
+	              },
 			'flexible-alerts': {
 					note: {
 					label: "Hinweis"
@@ -55,9 +47,20 @@
 				label: "Achtung"
 						  },
 							 },
-  },
-
-    }
+		  darkMode: {
+			dark: {
+			background: "",
+			toggleBtnBg: "",
+			textColor: ""
+				},
+			light: {
+			background: "",
+			toggleBtnBg: "",
+			textColor: ""
+				},
+  }
+  
+    };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
