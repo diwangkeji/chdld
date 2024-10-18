@@ -50,7 +50,7 @@ body {
 <hr />
 
 
-  <table width="700" height="350" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
+  <table width="200" height="100" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
 	<tr><td width="200" style="text-align: center">name</td><td width="100" style="text-align: center">Stdmode</td><td width="100" style="text-align: center">shape</td><td width="100" style="text-align: center">Weight</td><td width="100" style="text-align: center">looks</td><td width="100" style="text-align: center">DuraMax</td><td width="100" style="text-align: center">Ac</td></tr>
 	<tr><td style="text-align: center">祝福神油</td><td style="text-align: center">3</td><td style="text-align: center">4</td><td style="text-align: center">1</td><td style="text-align: center">179</td><td style="text-align: center">1</td><td style="text-align: center">0</td></tr>
 	<tr><td style="text-align: center">超级祝福神油</td><td style="text-align: center">3</td><td style="text-align: center">4</td><td style="text-align: center">1</td><td style="text-align: center">25899</td><td style="text-align: center">1</td><td style="text-align: center">1</td></tr>
