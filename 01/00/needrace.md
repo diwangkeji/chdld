@@ -42,7 +42,7 @@ body {
 最后更新时间：2022/03/22<br />
 <hr />
 
-<table width="500" height="200" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
+<table width="500" height="600" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
   <tr style="height:150px; width:150px"><td width="200" style="text-align: center">NeedRace</td><td width="200">佩戴职业</td></tr>
   <tr style="height:150px; width:150px"><td width="200" style="text-align: center">0</td><td width="200">战士 法师 道士</td></tr>
   <tr style="height:150px; width:150px"><td width="200" style="text-align: center">1</td><td width="200">战士</td></tr>
