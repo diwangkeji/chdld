@@ -43,14 +43,14 @@ body {
 <hr />
 
 <table width="500" height="600" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">NeedRace</td><td width="200">佩戴职业</td></tr>
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">0</td><td width="200">战士 法师 道士</td></tr>
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">1</td><td width="200">战士</td></tr>
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">2</td><td width="200">法师</td></tr>
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">3</td><td width="200">道士</td></tr>
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">4</td><td width="200">战士 法师</td></tr>
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">5</td><td width="200">战士 道士</td></tr>
-  <tr style="height:150px; width:150px"><td width="200" style="text-align: center">6</td><td width="200">法师 道士</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">NeedRace</td><td width="200">佩戴职业</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">0</td><td width="200">战士 法师 道士</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">1</td><td width="200">战士</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">2</td><td width="200">法师</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">3</td><td width="200">道士</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">4</td><td width="200">战士 法师</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">5</td><td width="200">战士 道士</td></tr>
+  <tr style="height:100px; width:150"><td width="200" style="text-align: center">6</td><td width="200">法师 道士</td></tr>
   </table>
 </body>
 </html>
