@@ -54,7 +54,7 @@
 | **ElementAC5**        | 火防御                                                                              | 最高支持65535                                                                             |
 | **MilitaryExp**       | 功勋值                                                                              | &nbsp;                                                                                |
 | **RepressDemonExp**   | 镇魔珠经验                                                                            | &nbsp;                                                                                |
-| **Thump **            | 暴击                                                                               | &nbsp;                                                                                |
+| **Thump**            | 暴击                                                                               | &nbsp;                                                                                |
 | **ReduceAC**          | 减免防御                                                                             | &nbsp;                                                                                |
 | **ReduceAvoid**       | 减免躲避                                                                             | &nbsp;                                                                                |
 | **SacredDamReduceLv** | 神圣免伤等级                                                                           | &nbsp;                                                                                |
