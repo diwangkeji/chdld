@@ -1,134 +1,90 @@
-# Stdmode字段说明
+# Stdmode字段说明 
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<style type="text/css">
-body,td,th {
-	color: #000;
-}
-body {
-	margin-left: 50px;
-	margin-top: 50px;
-	margin-right: 50px;
-	margin-bottom: 50px;
-	color: #666;
-}
-.zise {
-	color: #90F;
-}
-.lan {
-	color: #00F;
-}
-.hong {
-	color: #F00;
-}
-.duanluo {
-	padding-left: 4em;
-}
-.zhushi {
-	color: #0C0;
-	font-weight: bold;
-}
-
-.biaoti {
-	font-weight: bold;
-	font-size: 24px;
-	color: #F0F;
-}
-</style>
-</head>
-
-<body>
-最后更新时间：2022/03/22<br />
-<hr />
+最后更新时间：2022/03/22  
 
 
-<table width="800" height="1000" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
-  <tr style="height:40px; width:250"><td width="100" style="text-align: center">Stdmode</td><td width="200" style="text-align: center">说明</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">0</td><td width="200">药</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">1</td><td width="200">干肉</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">2</td><td width="200">技能卷轴</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">3</td><td width="200">灵符、卷轴、油、石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">4</td><td width="200">技能书</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">5</td><td width="200">武器</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">6</td><td width="200">武器</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">7</td><td width="200">气血灵珠、幻魔灵珠、魔血灵珠</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">8</td><td width="200">元神技能书</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">9</td><td width="200">月光宝盒</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">10</td><td width="200">男衣</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">11</td><td width="200">女衣</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">12</td><td width="200">盾牌</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">13</td><td width="200">魂珠</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">15</td><td width="200">头盔</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">16</td><td width="200">御兽衣服(男)</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">17</td><td width="200">御兽衣服(女)</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">18</td><td width="200">超级技能项链</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">19</td><td width="200">项链</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">20</td><td width="200">项链</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">21</td><td width="200">项链</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">22</td><td width="200">戒指</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">23</td><td width="200">戒指</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">24</td><td width="200">手镯</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">25</td><td width="200">毒、符、灵鼠神佑</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">26</td><td width="200">手镯、手套</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">29</td><td width="200">灵鼠神佑、金牛神佑</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">30</td><td width="200">勋章、蜡烛，祝福宝石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">31</td><td width="200">捆包、卷轴</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">32</td><td width="200">空马牌</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">33</td><td width="200">马牌</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">34</td><td width="200">道符</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">36</td><td width="200">卷轴(不减持久)</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">37</td><td width="200">特殊道具</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">38</td><td width="200">黑暗之戒</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">40</td><td width="200">肉</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">41</td><td width="200">特殊证书</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">42</td><td width="200">配药原料</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">43</td><td width="200">矿石、碎片</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">44</td><td width="200">幸运符、号角</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">45</td><td width="200">红、绿、蓝宝石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">46</td><td width="200">钥匙、任务道具</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">47</td><td width="200">金条、金砖</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">48</td><td width="200">木材</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">49</td><td width="200">宝箱、豹魔石、披风</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">50</td><td width="200">宝盒</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">52</td><td width="200">烟花</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">57</td><td width="200">附身物品</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">58</td><td width="200">腰带</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">59</td><td width="200">宝石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">61</td><td width="200">天地宝石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">62</td><td width="200">鉴定卷轴</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">70</td><td width="200">元神</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">71</td><td width="200">三魂七魄灵石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">81</td><td width="200">靴子</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">82</td><td width="200">靴子(未鉴定)</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">83</td><td width="200">腰带(未鉴定)</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">90</td><td width="200">行会资源</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">91</td><td width="200">魂骨</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">93</td><td width="200">启心石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">100</td><td width="200">虎王护甲</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">101</td><td width="200">虎王护腕</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">102</td><td width="200">虎王护膝</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">103</td><td width="200">灵兽头盔</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">104</td><td width="200">灵兽护经</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">105</td><td width="200">灵兽护胸</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">106</td><td width="200">灵兽护背</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">107</td><td width="200">灵兽护肢</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">108</td><td width="200">灵兽尾刺</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">111</td><td width="200">纹佩</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">112</td><td width="200">神龙之魂</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">114</td><td width="200">龙纹钢</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">116</td><td width="200">面甲</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">117</td><td width="200">仙翼</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">118</td><td width="200">仙谕</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">119</td><td width="200">仙冠</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">120</td><td width="200">仙珠</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">121</td><td width="200">仙佩</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">122</td><td width="200">仙靴</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">123</td><td width="200">仙带</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">124</td><td width="200">碎片</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">125</td><td width="200">玉石</td></tr>
-<tr style="height:40px; width:250"><td width="100" style="text-align: center">137</td><td width="200">七宝灵驹</td></tr>
-</table>
-</body>
-</html>
+| Stdmode | 说明             |
+|---------|----------------|
+| 0       | 药              |
+| 1       | 干肉             |
+| 2       | 技能卷轴           |
+| 3       | 灵符、卷轴、油、石      |
+| 4       | 技能书            |
+| 5       | 武器             |
+| 6       | 武器             |
+| 7       | 气血灵珠、幻魔灵珠、魔血灵珠 |
+| 8       | 元神技能书          |
+| 9       | 月光宝盒           |
+| 10      | 男衣             |
+| 11      | 女衣             |
+| 12      | 盾牌             |
+| 13      | 魂珠             |
+| 15      | 头盔             |
+| 16      | 御兽衣服(男)        |
+| 17      | 御兽衣服(女)        |
+| 18      | 超级技能项链         |
+| 19      | 项链             |
+| 20      | 项链             |
+| 21      | 项链             |
+| 22      | 戒指             |
+| 23      | 戒指             |
+| 24      | 手镯             |
+| 25      | 毒、符、灵鼠神佑       |
+| 26      | 手镯、手套          |
+| 29      | 灵鼠神佑、金牛神佑      |
+| 30      | 勋章、蜡烛，祝福宝石     |
+| 31      | 捆包、卷轴          |
+| 32      | 空马牌            |
+| 33      | 马牌             |
+| 34      | 道符             |
+| 36      | 卷轴(不减持久)       |
+| 37      | 特殊道具           |
+| 38      | 黑暗之戒           |
+| 40      | 肉              |
+| 41      | 特殊证书           |
+| 42      | 配药原料           |
+| 43      | 矿石、碎片          |
+| 44      | 幸运符、号角         |
+| 45      | 红、绿、蓝宝石        |
+| 46      | 钥匙、任务道具        |
+| 47      | 金条、金砖          |
+| 48      | 木材             |
+| 49      | 宝箱、豹魔石、披风      |
+| 50      | 宝盒             |
+| 52      | 烟花             |
+| 57      | 附身物品           |
+| 58      | 腰带             |
+| 59      | 宝石             |
+| 61      | 天地宝石           |
+| 62      | 鉴定卷轴           |
+| 70      | 元神             |
+| 71      | 三魂七魄灵石         |
+| 81      | 靴子             |
+| 82      | 靴子(未鉴定)        |
+| 83      | 腰带(未鉴定)        |
+| 90      | 行会资源           |
+| 91      | 魂骨             |
+| 93      | 启心石            |
+| 100     | 虎王护甲           |
+| 101     | 虎王护腕           |
+| 102     | 虎王护膝           |
+| 103     | 灵兽头盔           |
+| 104     | 灵兽护经           |
+| 105     | 灵兽护胸           |
+| 106     | 灵兽护背           |
+| 107     | 灵兽护肢           |
+| 108     | 灵兽尾刺           |
+| 111     | 纹佩             |
+| 112     | 神龙之魂           |
+| 114     | 龙纹钢            |
+| 116     | 面甲             |
+| 117     | 仙翼             |
+| 118     | 仙谕             |
+| 119     | 仙冠             |
+| 120     | 仙珠             |
+| 121     | 仙佩             |
+| 122     | 仙靴             |
+| 123     | 仙带             |
+| 124     | 碎片             |
+| 125     | 玉石             |
+| 137     | 七宝灵驹           |
