@@ -1,7 +1,9 @@
 # NeedRace字段说明
-<html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+
 <style type="text/css">
 body,td,th {
 	color: #000;
@@ -42,15 +44,16 @@ body {
 最后更新时间：2022/03/22<br />
 <hr />
 
-<table width="500" height="600" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">NeedRace</td><td width="200">佩戴职业</td></tr>
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">0</td><td width="200">战士 法师 道士</td></tr>
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">1</td><td width="200">战士</td></tr>
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">2</td><td width="200">法师</td></tr>
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">3</td><td width="200">道士</td></tr>
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">4</td><td width="200">战士 法师</td></tr>
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">5</td><td width="200">战士 道士</td></tr>
-  <tr style="height:100px; width:150"><td width="200" style="text-align: center">6</td><td width="200">法师 道士</td></tr>
+
+<table width="500" height="500" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">NeedRace</td><td width="200">佩戴职业</td></tr>
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">0</td><td width="200">战士 法师 道士</td></tr>
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">1</td><td width="200">战士</td></tr>
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">2</td><td width="200">法师</td></tr>
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">3</td><td width="200">道士</td></tr>
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">4</td><td width="200">战士 法师</td></tr>
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">5</td><td width="200">战士 道士</td></tr>
+  <tr style="height:40px; width:250"><td width="200" style="text-align: center">6</td><td width="200">法师 道士</td></tr>
   </table>
 </body>
 </html>
