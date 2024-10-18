@@ -9,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css"/>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"/>
 </head>
 <body>
   <div id="app"></div>
@@ -23,6 +24,7 @@
       sidebarDisplayLevel: 1,
       autoHeader: true,
       mergeNavbar: true,
+	  themeColor: "#42b983",
       alias: {
        '/.*/sidebar.md': '/sidebar.md',
       },
@@ -30,16 +32,26 @@
       timeUpdater: {
     text: "<div align='right' width='200px' style='color:gray;font-size:12px'> <br/> <hr/> 最近修订：{docsify-updated}</div>",
     formatUpdated: "{YYYY}-{MM}-{DD}",
+	  dark: {
+    background: "#1c2022",
+    toggleBtnBg: "#34495e",
+    textColor: "#b4b4b4"
+  },
+  light: {
+    background: "white",
+    toggleBtnBg: "var(--theme-color)",
+    textColor: "var(--theme-color)"
+  }
   },
 
     }
   </script>
-  
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-
+  <script src="//unpkg.com/docsify-plugin-flexible-alerts@1.1.1/dist/docsify-plugin-flexible-alerts.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
 </body>
 </html>
