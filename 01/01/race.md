@@ -4,7 +4,7 @@
 
 * * *
 
-  <table width="1300" height="200" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
+  <table width="900" height="900" border="1" cellpadding="0" cellspacing="0" bordercolor="#666" style="border-collapse:collapse;">
   <tr><td width="200" style="text-align: center">攻击代码</td><td width="500">说明</td><td width="500">怪物/功能</td></tr>
   <tr>
     <td style="text-align: center">11</td>
