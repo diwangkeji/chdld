@@ -22,5 +22,3 @@
 项目维护： [帝王科技](https://www.dwkj.me)
 
 Enigma群： [加群链接](/eghelp.md)
-
-
